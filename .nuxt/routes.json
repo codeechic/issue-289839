@@ -1,0 +1,26 @@
+[
+  {
+    "name": "about-me",
+    "path": "/about-me",
+    "component": "C:\\\\Users\\\\kacie\\\\Desktop\\\\workspace\\\\issue\\\\issue\\\\pages\\\\about-me\\\\index.vue",
+    "chunkName": "pages/about-me/index"
+  },
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\Users\\\\kacie\\\\Desktop\\\\workspace\\\\issue\\\\issue\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index"
+  },
+  {
+    "name": "admin-auth",
+    "path": "/admin/auth",
+    "component": "C:\\\\Users\\\\kacie\\\\Desktop\\\\workspace\\\\issue\\\\issue\\\\pages\\\\admin\\\\auth.vue",
+    "chunkName": "pages/admin/auth"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\kacie\\\\Desktop\\\\workspace\\\\issue\\\\issue\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
